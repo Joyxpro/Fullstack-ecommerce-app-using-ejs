@@ -1,4 +1,4 @@
-// This is done to test if the server is running or not.
+
 
 
 const express = require('express');
